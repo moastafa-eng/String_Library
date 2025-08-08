@@ -1,0 +1,13 @@
+.vs/
+x64/
+*.user
+*.pdb
+*.obj
+*.exe
+*.dll
+*.cache
+*.tmp
+*.log
+StringLi.*/
+.voice-comments/
+0
